@@ -1,13 +1,13 @@
 <template>
   <div class="container">
-    <div class="text-green-400 font-medium text-6xl bg-bluee-100">
+    <div class="text-6xl font-medium text-green-400 bg-bluee-100">
       <span class="text-blue-400">tail</span>
       <span class="text-black">windcss</span>+<span
         >nu<span class="text-blue-800">xt</span> starter kit</span
       >
-      <div class="flex justify-around items-center border border-blue-500">
+      <div class="flex items-center justify-around border border-blue-500">
         <div class="">
-          <img class="h-20 w-20" src="https://nuxtjs.org/logos/nuxt.svg" />
+          <img class="w-20 h-20" src="https://nuxtjs.org/logos/nuxt.svg" />
         </div>
         <div class="text-5xl font semibold">+</div>
         <div class="">
