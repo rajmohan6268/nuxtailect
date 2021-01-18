@@ -1,5 +1,13 @@
 # nuxtailect
 
+nuxt tailwindcss  project starter
+
+
+prettier 
+eslint 
+configured
+
+
 ## Build Setup
 
 ```bash
